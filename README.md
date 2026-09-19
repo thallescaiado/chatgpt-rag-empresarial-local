@@ -47,3 +47,12 @@ Execute o servidor local do Streamlit:
 streamlit run app.py
 ```
 O seu navegador abrirá automaticamente no endereço seguro de host local: `http://localhost:8501`.
+
+## 🧠 Processo de Desenvolvimento & Engenharia de Prompts
+
+Este projeto foi desenvolvido utilizando práticas modernas de **Engenharia de Prompts e Programação Assistida por IA**. 
+Atuei como o Arquiteto de Soluções e Engenheiro de Software do pipeline, sendo responsável por:
+- Desenhar a arquitetura de dados integrando LlamaIndex e ChromaDB.
+- Mitigar problemas críticos de compatibilidade de pacotes de IA (como dependências do `Pillow` e `torchvision` no ambiente Windows).
+- Configurar e garantir o isolamento e privacidade dos dados corporativos através do deploy local utilizando o Ollama.
+
