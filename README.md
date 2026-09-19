@@ -25,8 +25,9 @@ A solução resolve um grande problema do mercado: utilizar o poder das LLMs sem
 
 ---
 
-## Interface de Usuário
+## 📸 Interface de Usuário
 
+Aqui está o visual da plataforma desenvolvida de forma integrada com o modelo local:
 <img width="1897" height="841" alt="print_interface" src="https://github.com/user-attachments/assets/61c209c1-d788-4dda-aece-2ed323b7c678" />
 
 <img width="1901" height="856" alt="print_resposta" src="https://github.com/user-attachments/assets/82420111-4b97-44b5-9f53-578a61b20e2c" />
