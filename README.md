@@ -25,6 +25,15 @@ A solução resolve um grande problema do mercado: utilizar o poder das LLMs sem
 
 ---
 
+## Interface de Usuário
+
+<img width="1907" height="867" alt="print_interface png" src="https://github.com/user-attachments/assets/9fab45b0-3008-4b7f-a1d9-d0d5e1547f16" />
+
+
+<img width="1907" height="867" alt="print_interface png" src="https://github.com/user-attachments/assets/56bcc823-9d91-4e23-bdaf-90e9526e7249" />
+
+---
+
 ## 🚀 Como Executar o Projeto Localmente
 
 ### 1. Pré-requisitos
